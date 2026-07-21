@@ -2,7 +2,6 @@
 
 > 📊 A comprehensive Excel Dashboard project for analyzing Engineering Colleges across Gujarat using interactive visualizations, KPIs, Pivot Tables, and Charts.
 
----
 
 # 📌 Project Overview
 
@@ -10,7 +9,6 @@ This project provides a complete analysis of Engineering Colleges in Gujarat. Th
 
 The project was built entirely in **Microsoft Excel** using Pivot Tables, Pivot Charts, Slicers, KPI Cards, and Conditional Formatting.
 
----
 
 # 🛠️ Tools & Technologies
 
@@ -21,7 +19,6 @@ The project was built entirely in **Microsoft Excel** using Pivot Tables, Pivot 
 - 🎨 Conditional Formatting
 - 🎛️ Interactive Slicers
 
----
 
 # 🎯 Project Objectives
 
@@ -33,7 +30,6 @@ The project was built entirely in **Microsoft Excel** using Pivot Tables, Pivot 
 - ✅ Monitor Research Activities
 - ✅ Build an Interactive Dashboard
 
----
 
 # 📂 Dashboard Sections
 
@@ -53,7 +49,6 @@ Includes:
 
 ![Executive Dashboard](Dashboard/Executive_Dashboard.png)
 
----
 
 ## 🗺️ District Analysis
 
@@ -69,7 +64,6 @@ Insights:
 
 ![District Analysis](Dashboard/District_Analysis.png)
 
----
 
 ## 💼 Internship Analysis
 
@@ -83,7 +77,6 @@ Insights:
 
 ![Internship Analysis](Dashboard/Internship_Analysis.png)
 
----
 
 ## 💰 Placement Analysis
 
@@ -97,7 +90,6 @@ Insights:
 
 ![Placement Analysis](Dashboard/Placement_Analysis.png)
 
----
 
 ## 🔬 Research Analysis
 
@@ -110,7 +102,6 @@ Insights:
 
 ![Research Analysis](Dashboard/Research_Analysis.png)
 
----
 
 # 📊 Key Insights
 
@@ -126,7 +117,6 @@ Insights:
 
 📌 Research Activity Analysis
 
----
 
 # ✨ Features
 
@@ -142,7 +132,6 @@ Insights:
 
 ✅ Clean Data Visualization
 
----
 
 # 📁 Project Structure
 
@@ -164,7 +153,6 @@ Gujarat-Colleges-Analytics/
 └── LICENSE
 ```
 
----
 
 # 🚀 How to Use
 
@@ -176,7 +164,6 @@ Gujarat-Colleges-Analytics/
 
 4️⃣ Explore different dashboard pages
 
----
 
 # 📚 Learning Outcomes
 
@@ -196,7 +183,6 @@ Gujarat-Colleges-Analytics/
 
 ✔️ Data Storytelling
 
----
 
 # 👨‍💻 Author
 
@@ -206,13 +192,11 @@ Gujarat-Colleges-Analytics/
 
 📊 Aspiring Data Analyst
 
----
 
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/premkumar-dataanalyst
 - 💻 GitHub: https://github.com/Prem-kumar-data-analyst
 
----
 
 # ⭐ If you found this project useful, don't forget to Star ⭐ this repository.
