@@ -7,7 +7,7 @@
 
 > 📌 Replace this image with your main dashboard screenshot.
 
-![Dashboard Overview](Images/Overview.png)
+<img width="1302" height="736" alt="Image" src="https://github.com/user-attachments/assets/b48ff8da-518e-4937-a08d-2602f23b6b8e" />
 
 
 # 📌 Project Overview
