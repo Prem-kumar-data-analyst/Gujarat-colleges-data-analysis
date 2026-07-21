@@ -57,23 +57,7 @@ The dashboard enables users to explore key educational metrics through dynamic v
 
 <img width="1302" height="736" alt="Image" src="https://github.com/user-attachments/assets/b48ff8da-518e-4937-a08d-2602f23b6b8e" />
 
-
-## 🗺️ 2. District Analysis
-
-### Highlights
-
-- Top Districts
-- Engineering Colleges by District
-- Verification Status
-- Top Universities
-- NAAC Verification
-
-### 📷 Screenshot
-
-![District Analysis](Images/District_Analysis.png)
-
-
-## 💼 3. Internship Analysis
+## 💼 2. Internship Analysis
 
 ### Highlights
 
@@ -83,7 +67,7 @@ The dashboard enables users to explore key educational metrics through dynamic v
 
 ### 📷 Screenshot
 
-![Internship Analysis](Images/Internship_Analysis.png)
+<img width="1306" height="736" alt="Image" src="https://github.com/user-attachments/assets/632ad808-a275-4f74-82da-f5769bee24c6" />
 
 
 ## 💰 4. Placement Analysis
