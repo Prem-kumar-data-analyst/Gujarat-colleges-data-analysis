@@ -83,7 +83,7 @@ The dashboard enables users to explore key educational metrics through dynamic v
 <img width="1305" height="727" alt="Image" src="https://github.com/user-attachments/assets/99a03be2-a538-433c-ae78-d28cb746ba4a" />
 
 
-## 🔬 5. Research Analysis
+## 🔬 5. Research Analysis/Verification Analysis
 
 ### Highlights
 
@@ -92,7 +92,7 @@ The dashboard enables users to explore key educational metrics through dynamic v
 
 ### 📷 Screenshot
 
-![Research Analysis](Images/Research_Analysis.png)
+<img width="1306" height="715" alt="Image" src="https://github.com/user-attachments/assets/305cb5b6-9feb-4694-8251-c6480a9aa355" />
 
 
 # 📊 Key Insights
