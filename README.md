@@ -1,153 +1,165 @@
-# 🎓 Gujarat Engineering Colleges Analytics Dashboard
+# 📊 Gujarat Engineering Colleges Analytics Dashboard
 
-> 📊 A comprehensive Excel Dashboard project for analyzing Engineering Colleges across Gujarat using interactive visualizations, KPIs, Pivot Tables, and Charts.
+> 🚀 An interactive **Google Sheets + Power BI** dashboard project that analyzes Engineering Colleges across Gujarat, providing actionable insights into accreditation, placements, internships, research, and district-wise performance.
+
+
+# 📷 Dashboard Preview
+
+> 📌 Replace this image with your main dashboard screenshot.
+
+![Dashboard Overview](Images/Overview.png)
 
 
 # 📌 Project Overview
 
-This project provides a complete analysis of Engineering Colleges in Gujarat. The dashboard helps users explore college distribution, NAAC accreditation, verification status, internship opportunities, placement performance, and research activities through interactive visualizations.
+This project provides a comprehensive analysis of Engineering Colleges in Gujarat using **Google Sheets** for data preparation and **Microsoft Power BI** for creating interactive dashboards.
 
-The project was built entirely in **Microsoft Excel** using Pivot Tables, Pivot Charts, Slicers, KPI Cards, and Conditional Formatting.
+The dashboard enables users to explore key educational metrics through dynamic visualizations, filters, and KPI cards, helping stakeholders make data-driven decisions.
+
+
+# 🎯 Objectives
+
+- 🏫 Analyze Engineering Colleges across Gujarat
+- ⭐ Monitor NAAC Accreditation Status
+- 📍 Compare District-wise College Distribution
+- 🎓 Analyze University-wise Performance
+- 💼 Evaluate Internship Opportunities
+- 💰 Analyze Placement Statistics
+- 🔬 Track Research Activities
+- 📈 Build an Interactive Business Intelligence Dashboard
 
 
 # 🛠️ Tools & Technologies
 
-- 📊 Microsoft Excel
-- 📈 Pivot Tables
-- 📉 Pivot Charts
-- 🎯 KPI Cards
-- 🎨 Conditional Formatting
-- 🎛️ Interactive Slicers
+| Tool | Purpose |
+|------|---------|
+| 📄 Google Sheets | Data Cleaning & Preparation |
+| 📊 Microsoft Power BI | Dashboard Development |
+| 📈 Power Query | Data Transformation |
+| 📉 DAX | KPIs & Measures |
+| 🎨 Power BI Visuals | Data Visualization |
 
 
-# 🎯 Project Objectives
-
-- ✅ Analyze Engineering Colleges across Gujarat
-- ✅ Track NAAC Accreditation Status
-- ✅ Compare District-wise College Distribution
-- ✅ Analyze Internship Availability
-- ✅ Evaluate Placement Performance
-- ✅ Monitor Research Activities
-- ✅ Build an Interactive Dashboard
+# 📂 Dashboard Pages
 
 
-# 📂 Dashboard Sections
+## 📌 1. Executive Summary
 
-## 📌 Executive Summary
+### Highlights
 
-Includes:
-
-- 📍 Total Colleges
-- ✔️ Verified Colleges
-- 🏅 NAAC Accredited Colleges
+- 📚 Total Colleges
+- ✅ Verified Colleges
+- ⭐ NAAC Accredited Colleges
 - 💼 Internship Availability
 - 📦 Placement Overview
 
-### 📸 Dashboard Preview
+### 📷 Screenshot
 
-> Replace the image below with your screenshot.
-
-![Executive Dashboard](Dashboard/Executive_Dashboard.png)
+![Executive Summary](Images/Executive_Summary.png)
 
 
-## 🗺️ District Analysis
+## 🗺️ 2. District Analysis
 
-Insights:
+### Highlights
 
-- 📍 Top Districts
-- 🏫 Colleges by District
-- ✔️ Verification Status
-- 🎓 Top Universities
-- ⭐ NAAC Verification
+- Top Districts
+- Engineering Colleges by District
+- Verification Status
+- Top Universities
+- NAAC Verification
 
-### 📸 Dashboard Preview
+### 📷 Screenshot
 
-![District Analysis](Dashboard/District_Analysis.png)
+![District Analysis](Images/District_Analysis.png)
 
 
-## 💼 Internship Analysis
+## 💼 3. Internship Analysis
 
-Insights:
+### Highlights
 
 - Internship Mode
 - Internship Year
 - Internship Distribution
 
-### 📸 Dashboard Preview
+### 📷 Screenshot
 
-![Internship Analysis](Dashboard/Internship_Analysis.png)
+![Internship Analysis](Images/Internship_Analysis.png)
 
 
-## 💰 Placement Analysis
+## 💰 4. Placement Analysis
 
-Insights:
+### Highlights
 
 - Highest Package
 - Average Package
 - Placement Statistics
 
-### 📸 Dashboard Preview
+### 📷 Screenshot
 
-![Placement Analysis](Dashboard/Placement_Analysis.png)
+![Placement Analysis](Images/Placement_Analysis.png)
 
 
-## 🔬 Research Analysis
+## 🔬 5. Research Analysis
 
-Insights:
+### Highlights
 
 - Research Status
 - Verification Status
 
-### 📸 Dashboard Preview
+### 📷 Screenshot
 
-![Research Analysis](Dashboard/Research_Analysis.png)
+![Research Analysis](Images/Research_Analysis.png)
 
 
 # 📊 Key Insights
 
-📌 District-wise Engineering College Distribution
+✔️ District-wise College Distribution
 
-📌 NAAC Accreditation Analysis
+✔️ NAAC Accreditation Analysis
 
-📌 Verification Status Analysis
+✔️ Placement Performance
 
-📌 Internship Trends
+✔️ Internship Trends
 
-📌 Placement Performance
+✔️ Research Activities
 
-📌 Research Activity Analysis
+✔️ Verification Status
 
 
 # ✨ Features
 
 ✅ Interactive Dashboard
 
-✅ Dynamic Slicers
+✅ Dynamic Filters & Slicers
 
-✅ Professional KPI Cards
+✅ KPI Cards
 
-✅ Easy Navigation
+✅ Drill-down Analysis
 
-✅ Business-Friendly Layout
+✅ Business-friendly Visualizations
 
-✅ Clean Data Visualization
+✅ Responsive Dashboard Layout
 
 
-# 📁 Project Structure
+# 📁 Repository Structure
 
 ```
-Gujarat-Colleges-Analytics/
+Gujarat-Engineering-Colleges-Dashboard/
 │
-├── Dashboard/
-│   ├── Executive_Dashboard.png
+├── Images/
+│   ├── Overview.png
+│   ├── Executive_Summary.png
 │   ├── District_Analysis.png
 │   ├── Internship_Analysis.png
 │   ├── Placement_Analysis.png
 │   └── Research_Analysis.png
 │
 ├── Data/
-│   ├── Gujarat_Colleges_Dataset.xlsx
+│   ├── Raw_Data.xlsx
 │   └── Cleaned_Data.xlsx
+│
+├── PowerBI/
+│   └── Gujarat_Engineering_Dashboard.pbix
 │
 ├── README.md
 └── LICENSE
@@ -156,37 +168,30 @@ Gujarat-Colleges-Analytics/
 
 # 🚀 How to Use
 
-1️⃣ Download the repository
+1️⃣ Clone this repository.
 
-2️⃣ Open the Excel Dashboard
+2️⃣ Open the **Power BI (.pbix)** file.
 
-3️⃣ Use Slicers to filter data
+3️⃣ Refresh the dataset if required.
 
-4️⃣ Explore different dashboard pages
+4️⃣ Explore the dashboard using interactive filters.
 
 
-# 📚 Learning Outcomes
+# 📚 Skills Demonstrated
 
-✔️ Data Cleaning
-
-✔️ Data Preparation
-
-✔️ Pivot Tables
-
-✔️ Pivot Charts
-
-✔️ Dashboard Designing
-
-✔️ Business Analytics
-
-✔️ Excel Visualization
-
-✔️ Data Storytelling
+- 📄 Data Cleaning
+- 📊 Data Visualization
+- 📈 Business Intelligence
+- 🔄 Data Transformation
+- 📉 Dashboard Design
+- 📌 KPI Development
+- 🧮 DAX Measures
+- 📍 Power Query
 
 
 # 👨‍💻 Author
 
-**Prem Kumar**
+## Prem Kumar
 
 🎓 B.Tech (Computer Science & Engineering)
 
@@ -195,8 +200,11 @@ Gujarat-Colleges-Analytics/
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/premkumar-dataanalyst
-- 💻 GitHub: https://github.com/Prem-kumar-data-analyst
+💼 LinkedIn: https://www.linkedin.com/in/premkumar-dataanalyst
+
+💻 GitHub: https://github.com/Prem-kumar-data-analyst
 
 
-# ⭐ If you found this project useful, don't forget to Star ⭐ this repository.
+# ⭐ Support
+
+If you found this project helpful, please consider giving it a ⭐ on GitHub.
