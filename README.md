@@ -80,7 +80,7 @@ The dashboard enables users to explore key educational metrics through dynamic v
 
 ### 📷 Screenshot
 
-![Placement Analysis](Images/Placement_Analysis.png)
+<img width="1305" height="727" alt="Image" src="https://github.com/user-attachments/assets/99a03be2-a538-433c-ae78-d28cb746ba4a" />
 
 
 ## 🔬 5. Research Analysis
