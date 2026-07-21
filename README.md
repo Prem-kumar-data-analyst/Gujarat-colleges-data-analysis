@@ -55,7 +55,7 @@ The dashboard enables users to explore key educational metrics through dynamic v
 
 ### 📷 Screenshot
 
-![Executive Summary](Images/Executive_Summary.png)
+<img width="1302" height="736" alt="Image" src="https://github.com/user-attachments/assets/b48ff8da-518e-4937-a08d-2602f23b6b8e" />
 
 
 ## 🗺️ 2. District Analysis
